@@ -161,8 +161,8 @@ gap: 40px;
 
 .logos{ 
     flex-wrap: wrap; 
-    justify-content: space-around;
-
+    justify-content: space-between;
+    
 }
 
 .logo{
